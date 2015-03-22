@@ -1,0 +1,10 @@
+name             'yara'
+maintainer       'Paul Welch'
+maintainer_email 'paul@pwelch.net'
+license          'MIT'
+description      'Installs/Configures yara'
+long_description 'Installs/Configures yara'
+version          '0.1.0'
+
+depends 'build-essential'
+depends 'python'

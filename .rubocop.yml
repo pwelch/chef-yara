@@ -1,0 +1,33 @@
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+
+HashSyntax:
+  EnforcedStyle: hash_rockets
+  Exclude:
+    - Rakefile
+    - 'spec/**/*'
+    - 'test/**/*'
+
+LineLength:
+  Max: 130
+
+## Disabled Checks
+Encoding:
+  Enabled: false
+
+Style/BracesAroundHashParameters:
+  Enabled: false
+
+Style/IndentHash:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
+# Don't fail on whitespace between method names and arguments
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+Style/NegatedIf:
+  Enabled: false
