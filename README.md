@@ -1,3 +1,5 @@
+[![Cookbook](http://img.shields.io/cookbook/v/yara.svg)](https://supermarket.chef.io/cookbooks/yara)
+[![GitHub tag](https://img.shields.io/github/tag/pwelch/chef-yara.svg)](https://github.com/pwelch/chef-yara/releases)
 [![Build Status](https://secure.travis-ci.org/pwelch/chef-yara.svg)](http://travis-ci.org/pwelch/chef-yara)
 
 ## Description
