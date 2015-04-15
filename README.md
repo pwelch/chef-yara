@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/pwelch/chef-yara.svg)](http://travis-ci.org/pwelch/chef-yara)
+
 ## Description
 
 Chef cookbook to install and configure [YARA](http://plusvic.github.io/yara/), the pattern matching swiss knife for malware researchers.
